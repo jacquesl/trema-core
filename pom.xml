@@ -81,7 +81,7 @@
 
     <!-- Plugins -->
     <coveralls-maven-plugin.version>3.0.1</coveralls-maven-plugin.version>
-    <jacoco-maven-plugin.version>0.7.2.201409121644</jacoco-maven-plugin.version>
+    <jacoco-maven-plugin.version>0.8.5</jacoco-maven-plugin.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
     <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
     <maven-javadoc-plugin.version>2.10.1</maven-javadoc-plugin.version>
